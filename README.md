@@ -10,4 +10,4 @@ Small Python script to quickly visually verify large amounts of medical image se
 run quicksegviewer.py
 
 Sceenshot:
-![Alt text](QuickSegViewer/QuickSegViewer_example.png?raw=true "Screenshot")
+![Alt text](QuickSegViewer_example.png?raw=true "Screenshot")
